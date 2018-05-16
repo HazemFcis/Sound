@@ -1,0 +1,9 @@
+F:\project\final\Sound\Sound\bin\Debug\Sound.exe.config
+F:\project\final\Sound\Sound\bin\Debug\Sound.exe
+F:\project\final\Sound\Sound\bin\Debug\Sound.pdb
+F:\project\final\Sound\Sound\obj\Debug\Sound.csprojResolveAssemblyReference.cache
+F:\project\final\Sound\Sound\obj\Debug\Sound.Form1.resources
+F:\project\final\Sound\Sound\obj\Debug\Sound.Properties.Resources.resources
+F:\project\final\Sound\Sound\obj\Debug\Sound.csproj.GenerateResource.Cache
+F:\project\final\Sound\Sound\obj\Debug\Sound.exe
+F:\project\final\Sound\Sound\obj\Debug\Sound.pdb
